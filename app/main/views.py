@@ -11,3 +11,23 @@ import markdown2
 
 def save_pitch(pitch):
     Pitch.save_pitch(pitch)
+
+@main.route('/')
+
+def index():
+    pitches = Pitch.query.order_by(Pitch.posted.desc()).all()
+    '''
+    my index page
+    :return:
+    '''
+    return render_template('index.html', pitches=pitches )
+
+@main.route('/user/<uname>')
+def profile(uname):
+    user = User.query.filter_by(username = uname).first()
+
+    if user is None:
+        abort(404)
+
+    return render_template("profile/profile.html", user = user)
+
