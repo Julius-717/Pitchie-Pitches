@@ -2,31 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61e0ee36-40db-479f-b145-d963c01eca74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/auth/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/auth/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2-2.7.5.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2/.libs/libcom_err-beb60336.so.2.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2/.libs/libgssapi_krb5-174f8956.so.2.2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2/.libs/libk5crypto-622ef25b.so.3.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2/.libs/libkeyutils-1-ff31573b.2.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2/.libs/libkrb5-fb0d2caa.so.3.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2/.libs/libkrb5support-d7ce89d4.so.0.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2/.libs/libselinux-cf8f9094.so.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2/.libs/libsepol-b4f5b513.so.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2/.libs/libz-a147dcb0.so.1.2.3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2/_psycopg.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.6/site-packages/psycopg2/_psycopg.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
