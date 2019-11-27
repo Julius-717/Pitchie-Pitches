@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61e0ee36-40db-479f-b145-d963c01eca74" name="Default Changelist" comment="" />
+    <list default="true" id="61e0ee36-40db-479f-b145-d963c01eca74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/photos/1200px-Liverpool_FC.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/photos/1200px-Liverpool_FC.svg_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/photos/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/photos/home-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/photos/home-bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/photos/post-bg.jpg" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
