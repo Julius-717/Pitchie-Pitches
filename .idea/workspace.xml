@@ -2,21 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61e0ee36-40db-479f-b145-d963c01eca74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/templates/added_comment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/added_pitch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/comments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/macros.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/new_comment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/new_pitch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/notfound.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/pitch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/pitch_comments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/profile/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/view_pitch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/added_comment.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/added_comment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/added_pitch.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/added_pitch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/new_comment.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/new_comment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/new_pitch.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/new_pitch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/notfound.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/notfound.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/pitch.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/pitch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/pitch_comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/pitch_comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/view_pitch.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/view_pitch.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
